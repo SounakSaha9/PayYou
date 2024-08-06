@@ -3,13 +3,13 @@ import styles from "./style"
 import Hero from './components/Hero'
 import Billing from './components/Billing'
 import Bussiness from './components/Bussiness'
-import Button from './components/Button'
+// import Button from './components/Button'l
 import CardDeal from './components/CardDeal'
 import Clients from './components/Clients'
 import CTA from './components/CTA'
-import FeedbackCard from './components/FeedbackCard'
+// import FeedbackCard from './components/FeedbackCard'
 import Footer from './components/Footer'
-import GetStarted from './components/GetStarted'
+// import GetStarted from './components/GetStarted'
 import Navbar from './components/Navbar'
 import Stats from './components/Stats'
 import Testimonials from "./components/Testimonials"
